@@ -1,0 +1,35 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# SQL
+*.sql
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment and dependencies
+venv/
+env/
+*.env
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# dir
+sources
+
